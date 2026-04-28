@@ -1,0 +1,26 @@
+# Environment variables (API Keys)
+.env
+
+# Python Virtual Environments
+.venv/
+.venv_mcp/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Database & Vector Store
+chroma_db/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/

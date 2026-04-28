@@ -1,0 +1,8 @@
+pydantic
+langchain
+langgraph
+langchain-nvidia-ai-endpoints
+pydantic
+dotenv
+pymongo
+chromadb
